@@ -5,6 +5,7 @@
 *.actual-rewrite
 *.process-output
 *.rewrite
+/obj/
 /bin/
 /buildscons/
 /libs/
